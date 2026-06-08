@@ -65,14 +65,11 @@
   <a href="https://www.linkedin.com/in/alvin-muriuki-0463b5348/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/AlvinNdei" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
 </div>
 
 <br/>
 
->  *Always happy to chat, collaborate, or just geek out about tech. Don't be a stranger!*
+>  *Always happy to chat, collaborate, or just geek out about tech.*
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,100:4f8ef7&height=120&section=footer" width="100%"/>
