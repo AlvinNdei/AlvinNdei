@@ -7,7 +7,7 @@
   <p>
     I'm a passionate developer who loves turning ideas into real, working software.<br/>
     Whether it's a clean UI, a solid backend, or an elegant algorithm — I'm all in.<br/>
-    Always curious, always building, always growing. 🚀
+    Always curious, always building, always growing.
   </p>
 </div>
 
@@ -36,8 +36,8 @@
 ## 🌱 Currently Learning
 
 ```text
-⚛️  React      -   In progress 
-🔧  Advanced Java  - Deep diving into java GUI & patterns
+⚛️  React 
+🔧  Advanced Java  
 🌐  Full-Stack Dev 
 ```
 
