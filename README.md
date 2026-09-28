@@ -6,6 +6,6 @@ I'm currently a student at The Jomo Kenyatta University of Agriculture and Techn
 
 I am also a cybersecurity enthusiast and I have good knowledge with Linux. I have worked with Linux for the past year and a half. I'm currently working on my CCNA certification.
 
-That aside, I'm also working on improving my knowledge in AI and ML.
+That aside, I'm also working on expounding my knowledge in AI and ML.
 
 Always happy to chat, collaborate, or just geek out about tech. Hit me up on my socials @alvin_ndei.
