@@ -6,7 +6,7 @@
 
 I build practical software, learn new tools quickly, and enjoy solving problems.
 
-[![Email](https://img.shields.io/badge/Email-alvinmuriuki714@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:alvin.ndei@students.jkuat.ac.ke)
+[![Email](https://img.shields.io/badge/Email-alvinmuriuki714@gmail.com-0A66C2?style=flat-square&logo=gmail&logoColor=white)](mailto:alvinmuriuki714@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-AlvinNdei-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AlvinNdei)
 
 </div>
